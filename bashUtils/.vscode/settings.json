@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "c",
+        "algorithm": "c",
+        "locale": "c",
+        "iterator": "c"
+    }
+}
