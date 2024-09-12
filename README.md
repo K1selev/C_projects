@@ -1,2 +1,2 @@
-# -_projects
+# C_projects
 проекты на языке си
